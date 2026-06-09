@@ -23,18 +23,20 @@ The application allows users to search for any city and instantly receive accura
 
 ---
 
-## sc
+## 
 
 ### Home Screen
 
 <p align="center">
-  <img src="screenshots/home.png" width="300" alt="Home Screen">
+  <img src="<img width="720" height="1600" alt="weatherappimg1" src="https://github.com/user-attachments/assets/a6732bcc-4800-4208-b007-b4c7d080015d" />
+" width="300" alt="Home Screen">
 </p>
 
 ### Forecast Screen
 
 <p align="center">
-  <img src="screenshots/forecast.png" width="300" alt="Forecast Screen">
+  <img src="<img width="720" height="1600" alt="weatherappimg2" src="https://github.com/user-attachments/assets/8b70a311-deb8-4db7-af00-e551392c0d7a" />
+" width="300" alt="Forecast Screen">
 </p>
 
 ---
